@@ -1,0 +1,7 @@
+venv/
+outputs/lora_outputs/
+outputs/wandb/
+outputs/__huggingface_repos__.json
+*.token
+__pycache__/
+.ipynb_checkpoints/

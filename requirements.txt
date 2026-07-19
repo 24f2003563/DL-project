@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+scipy
+torch
+transformers
+datasets
+peft
+sentence-transformers
+faiss-cpu
+kagglehub
+wandb

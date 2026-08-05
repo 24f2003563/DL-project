@@ -6,7 +6,4 @@ torch
 transformers
 datasets
 peft
-sentence-transformers
-faiss-cpu
-kagglehub
 wandb
